@@ -1,0 +1,5 @@
+- Nama Lengkap : Putri Dyah Trisnawati
+- NPM : 2313020206
+- Program Studi : Teknik Informatika
+- Minat Bidang IT : UI UX DESIGNER
+- Harapan : Semoga mata kuliah Software Development ini dapat memberikan pemahaman yang lebih baik tentang pengembangan perangkat lunak dan dapat membantu saya dalam mempersiapkan diri menghadapi dunia kerja di masa depan.
