@@ -9,3 +9,16 @@ Mata Kuliah: Software Development
 
 ## Deskripsi Repository
 Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah Software Development.
+
+## Tujuan Repository
+Repository ini digunakan untuk mempelajari dasar-dasar penggunaan Git dan GitHub dalam pengembangan perangkat lunak.
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
+
+## Daftar File
+- README.md
+- perkenalan.md
+- profile.md
